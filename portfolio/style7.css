@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+button{
+    width: 150px;
+    height: 40px;
+    text-decoration: none;
+    cursor: pointer;
+}

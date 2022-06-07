@@ -1,0 +1,20 @@
+.senders_address{
+    text-align: right;
+    padding: 5%;
+}
+h1{
+    text-align: center;
+}
+.closing{
+    text-align: right;
+    font-weight: 600;
+    padding: 5%;
+}
+.address{
+    font-weight: 600;
+}
+.salute{
+    padding: 5px;
+    margin: 0%;
+}
+

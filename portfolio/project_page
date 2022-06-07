@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=im, initial-scale=1.0">
+    <link rel="stylesheet" href="./style7.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <main>
+    <section class="first image">
+        <a href="./index.html"><img src="./home photo.jpg" alt="HOME"width="350"height="300"></a><br><br><button><a href="index.html">LINK TO PORTFOLIO</a></button><br><br><button><a href="https://github.com/davidkama2770/Independence/commit/c9ad86ac7fc7ed8da5a417cfbf357b1bc9d6d8bf">LINK TO REPO</a></button>
+    </section>
+    <section class="second image">
+        <a href="./index2.html"><img src="./cv photo.jpg" alt="CV"width="350"height="300"></a><br><br><button><a href="index2.html">LINK TO CV</a></button><br><br><button><a href="https://github.com/davidkama2770/Independence/commit/806185792749ccfa37910947e790e823d6790015">LINK TO REPO</a></button>
+    </section>
+    <section class="third image">
+         <a href="./index3.html"> <img src="./letter photo.jpg" alt="LETTER"width="350"height="300"></a><br><br><button><a href="index3.html">LINK TO LETTER</a></button><br><br><button><a href="https://github.com/davidkama2770/Independence/commit/1acbaace9dc2d1107452a40bd2b51c14ae7348e3">LINK TO REPO</a></button> 
+    </section>
+</main>
+
+
+</body>
+</html>
